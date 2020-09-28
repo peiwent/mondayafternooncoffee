@@ -2,7 +2,7 @@
 
 test document for showing continuous integration
 
-Here is the document [test.txt]
+Here is the document [test.text]
 
 I realised I want to add a list.
 
